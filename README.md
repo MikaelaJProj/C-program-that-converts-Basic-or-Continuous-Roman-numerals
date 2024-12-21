@@ -10,7 +10,6 @@ File-Based Input/Output: Reads inputs from Input.txt and writes results to Outpu
 Usage
 Provide input in Input.txt in the format:
 vbnet
-Copy code
 ROMAN_NUMERAL1 OPERATOR ROMAN_NUMERAL2
 Example:
 X + V
